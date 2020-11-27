@@ -1,4 +1,4 @@
-# build-ai-proggis
+# shoud-i-attend
 Building AI course project
 
 # Project Title
